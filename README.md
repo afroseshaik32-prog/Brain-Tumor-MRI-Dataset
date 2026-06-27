@@ -7,11 +7,13 @@ Brain Tumor Detection using Deep Learning (CNN)
 
 **Name:** Shaik Afrose
 
-**Department:** Computer Science and Engineering
+**Department:** Computer Science and Engineering (Data Science)
 
-**College:** Your College Name
+**College:** Annamacharya University
 
-**Academic Year:** 2025–2026
+**Year of Study:** 3rd Year
+
+**Academic Year:** 2026–2027
 
 ---
 
